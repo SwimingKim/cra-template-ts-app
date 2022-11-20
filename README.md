@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Packages
 - react-router-dom
+- semantic-ui-react
 
 ## Available Scripts
 
